@@ -1,0 +1,18 @@
+body {
+    font-family: 'Georgia', serif;
+  }
+
+  .card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.bjp {
+  color: #ff9933;
+}
+
+.ljp {
+  color: #3399ff;
+}
